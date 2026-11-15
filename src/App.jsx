@@ -2,23 +2,23 @@
 import Navbar from './components/Navbar';
 import Hero from './components/Hero';
 import About from './components/aboutME';
+import Projects from './components/Projects';
+import Contact from './components/Contact';
 
 function App() {
   return (
     <>
       <Navbar />
 
-      <Hero />
+      <main>
+        <Hero />
 
-      <About />
+        <About />
 
-      <section id="projects">
-        {/* Projects content */}
-      </section>
+        <Projects />
 
-      <section id="contact">
-        {/* Contact content */}
-      </section>
+        <Contact />
+      </main>
     </>
   );
 }
