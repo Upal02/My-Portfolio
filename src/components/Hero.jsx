@@ -42,7 +42,7 @@ function Hero() {
           </h1>
 
           <h2 className="mt-5 text-xl sm:text-2xl lg:text-3xl font-semibold text-[#C4B5D8]">
-            Frontend Developer
+            Full-Stack Developer
           </h2>
 
           <p className="mt-5 max-w-[470px] text-sm sm:text-base leading-7 text-[#A99BBE]">
