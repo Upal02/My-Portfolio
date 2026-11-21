@@ -1,16 +1,43 @@
-# React + Vite
+# My Portfolio 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A personal portfolio website built by me, **Upal**, to showcase my skills, projects, and journey as a developer.
 
-Currently, two official plugins are available:
+This project is part of my learning journey in web development. I built it to apply what I've learned, explore modern frontend technologies, and create a place to present my work.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🌐 Live Website
 
-## React Compiler
+[**Visit My Portfolio**](https://upal02.github.io/My-Portfolio/)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
 
-## Expanding the ESLint configuration
+- **Home** – A brief introduction about me.
+- **About Me** – A little about myself and my journey.
+- **Skills** – Technologies and tools I'm learning and working with.
+- **Projects** – A showcase of my work and development projects.
+- **Contact** – A way to connect with me.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Technologies Used
+
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+- Tailwind CSS
+- Vite
+- Git & GitHub
+
+## 🎯 Purpose
+
+This portfolio represents my learning, creativity, and progress as a developer. It is a project I built to gain practical experience, improve my frontend development skills, and showcase what I can create.
+
+I'm continuously learning and looking forward to improving it as I grow as a developer.
+
+---
+
+### © Copyright
+
+**Built and designed by Upal.**
+
+© 2026 Upal. All Rights Reserved.
+
+Thanks for visiting my portfolio and checking out my work!
